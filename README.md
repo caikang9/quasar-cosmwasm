@@ -11,6 +11,9 @@
 
 Quasar Cosmwasm is the implementation of quasar in cosmwasm supported blockchains
 
+## Demo
+![](https://youtu.be/Hsl9tt2x00g)
+
 ## Trying it out
 
 ### For developers
